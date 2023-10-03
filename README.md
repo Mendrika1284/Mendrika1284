@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mendrika1284
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React, NodeJs and Laravel 8
+- 🌱 I’m currently working with ReactJs, NodeJs and Laravel 8
 - 💞️ I’m looking to collaborate on Web development project
 - 📫 How to reach me: 
 -                     Email: mendrikaitokiuana@gmail.com
