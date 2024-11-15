@@ -67,8 +67,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mendrika1284/mendrika1284/output/snake.svg" alt="Snake animation" />
-
 ![Snake animation](https://github.com/mendrika1284/Mendrika1284/blob/output/snake.svg)
 
 
