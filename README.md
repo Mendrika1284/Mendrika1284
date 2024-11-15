@@ -5,7 +5,7 @@
 -                     Email: mendrikaitokiuana@gmail.com
 -                     LinkedIn: www.linkedin.com/in/rakotonirina-mendrika-itokiana
 
--                 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!---
 Mendrika1284/Mendrika1284 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
