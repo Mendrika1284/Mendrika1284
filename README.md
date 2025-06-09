@@ -67,7 +67,5 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/mendrika1284/Mendrika1284/blob/output/snake.svg)
-
 
 ###
